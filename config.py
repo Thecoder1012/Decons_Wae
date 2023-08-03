@@ -1,0 +1,16 @@
+lr = 0.0001
+data_pts = 60000
+n_samples = [7000, 9000]
+size_of_batch_g = 1000
+size_of_batch_m = 128
+total_epoch = 20
+ITERS_g = 5000
+ITERS_m = 60
+n_z_g = 2
+n_z_m = 64
+sigma = 1  
+step = 0
+total_corpus = 60000
+alpha = 0.2
+recons_ep = 200
+data_pts_load = True
