@@ -75,7 +75,7 @@ def jenson_shannon_divergence(net_1_logits, net_2_logits):
     net_1_probs = F.softmax(net_1_logits, dim=0)
     net_2_probs = F.softmax(net_2_logits, dim=0)
     
-    total_m = 0.5 * (net_1_probs + net_1_probs)
+    total_m = 0.5 * (net_1_probs + net_2_probs)
     
     loss = 0.0
     loss += F.kl_div(F.log_softmax(net_1_logits, dim=0), total_m, reduction="batchmean") 
