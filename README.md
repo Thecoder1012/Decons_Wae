@@ -27,7 +27,7 @@ python3 train.py
 
 All Robust codes have been given inside **Robust** folder for Gaussian Ball and Mnist. Each have been tested with **Cauchy**, **Dirichlet**, and **Gaussian** Noise.
 
-**Experimentation**
+**Experimentation** 
 
 To experiment with Gaussian Ball position and increase the clusters we suggest to make changes inside <b>dataset.py</b>.
 
@@ -38,4 +38,4 @@ We offer open collaboration to the hyperparameters we have set. We also release 
 The <b> model.py </b> presents a simple dense neural network model for mnist and gaussian ball reconstruction.
 
 In robustness, we have mixed the datas with certain ratios mentioned in line **127, 129** in gaussian_ball **cauchy.py** and line **134, 137** in **dirichlet.py**. The ratio can be changed in line **95** and **101** respectively.
-Similar experimentation can be done with MNIST.
+Similar experimentation can be done with MNIST. All configuration setting can be also set up to check the reconstruction.
