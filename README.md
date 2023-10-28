@@ -1,4 +1,4 @@
-# Deconstructing Wasserstein Autoencoders
+# DECONSTRUCTING WASSERSTEIN AUTOENCODERS
 
 <b> Step 1 : Install the requirements</b>
 ````
