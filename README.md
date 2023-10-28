@@ -1,8 +1,7 @@
 # DECONSTRUCTING WASSERSTEIN AUTOENCODERS
 <b> Datasets </b>
-![Datasets](https://github.com/Thecoder1012/SuRGe/blob/main/assets/generator_updated.png)
-<b> Discriminator </b>
-![Discriminator](https://github.com/Thecoder1012/SuRGe/blob/main/assets/discriminator_main.jpg)
+![Datasets](https://github.com/Thecoder1012/Decons_Wae/blob/main/assets/dataset.png)
+
 
 <b> Step 1 : Install the requirements</b>
 ````
