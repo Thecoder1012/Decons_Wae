@@ -1,4 +1,5 @@
-**Deconstracting Wasserstein Autoencoders**
+# Deconstracting Wasserstein Autoencoders
+
 <b> Step 1 : Install the requirements</b>
 ````
 pip install -r requirements.txt
