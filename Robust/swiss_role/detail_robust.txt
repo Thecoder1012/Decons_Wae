@@ -1,0 +1,14 @@
+trial1:
+Checking robustness, mixing cauchy with 2000 data from 10k samples in different ratios and plotting
+with mmd loss
+
+trial2:
+Checking robustness, mixing cauchy with 1000 data from 10k samples in different ratios and plotting
+with mmd loss
+
+trial3:
+Checking robustness, mixing dirichlet with 2000 data from 10k samples in different ratios and plotting with mmd loss
+
+trial4:
+Checking robustness, mixing dirichlet with 1000 data from 10k samples in different ratios and plotting with mmd loss
+
