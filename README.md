@@ -37,7 +37,12 @@ python3 code_v6.py
 make sure you imported <b>dataset.py</b> in the same folder, to run the experiments, please make changes.
 
 
-All Robust codes have been given inside **Robust** folder for Gaussian Ball and Mnist. Each have been tested with **Cauchy**, **Dirichlet**, and **Gaussian** Noise.
+All Robust codes have been given inside **Robust** folder for Gaussian Ball and Mnist. Each have been tested with **Cauchy**, **Dirichlet**, and **Gaussian** Noise. To run the robust code for swiss role please follow ./Robust/swiss_role/ and run
+
+````
+python3 robust_code.py
+````
+
 
 **Experimentation** 
 
