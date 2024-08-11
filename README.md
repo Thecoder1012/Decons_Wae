@@ -1,4 +1,4 @@
-# CONCURRENT DENSITY ESTIMATION WITH WASSERSTEIN AUTOENCODERS: SOME STATISTICAL INSIGHTS
+# Concurrent Density Estimation with Wasserstein Autoencoders: Generation Fidelity and Adversarial Robustness
 <b> Datasets </b>
 ![Datasets](https://github.com/Thecoder1012/Decons_Wae/blob/main/assets/dataset.png)
 
