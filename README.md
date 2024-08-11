@@ -1,6 +1,6 @@
 # Concurrent Density Estimation with Wasserstein Autoencoders: Generation Fidelity and Adversarial Robustness
 <b> Datasets </b>
-![Datasets](https://github.com/Thecoder1012/Decons_Wae/blob/main/assets/dataset.png)
+![Datasets](https://github.com/Thecoder1012/Decons_Wae/blob/main/assets/dataset(2).png)
 
 
 <b> Step 1 : Install the requirements</b>
