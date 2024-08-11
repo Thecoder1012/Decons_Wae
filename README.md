@@ -29,6 +29,14 @@ To run the code please run
 python3 train.py
 ````
 
+To run the experiments on swiss role go inside ./swiss_role and run
+````
+python3 code_v6.py
+````
+
+make sure you imported <b>dataset.py</b> in the same folder, to run the experiments, please make changes.
+
+
 All Robust codes have been given inside **Robust** folder for Gaussian Ball and Mnist. Each have been tested with **Cauchy**, **Dirichlet**, and **Gaussian** Noise.
 
 **Experimentation** 
