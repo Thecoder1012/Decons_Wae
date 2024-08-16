@@ -1,4 +1,4 @@
-# ✨ Concurrent Density Estimation with Wasserstein Autoencoders: Generation Fidelity and Adversarial Robustness
+# ✨ Information Preservation with Wasserstein Autoencoders: Generation Consistency and Adversarial Robustness
 
 ## 🗂️ Overview
 This repository contains code and resources for training Wasserstein Autoencoders (WAE) to explore generation fidelity and adversarial robustness. The project focuses on concurrent density estimation using different latent space distributions and various activation functions. 
